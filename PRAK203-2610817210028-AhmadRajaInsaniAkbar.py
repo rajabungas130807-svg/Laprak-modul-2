@@ -1,0 +1,8 @@
+a=input("a=")
+b=input("b=")
+i=input("i=")
+j=input("j=")
+x=input("x=")
+y=input("y=")
+total= (float(a)-float(b))*float(i)/float(j)-(float(x)+float(y))
+print ("%.3f" % total)
